@@ -170,7 +170,7 @@ const App: React.FC = () => {
 						focuses mainly on web & app development.
 						<br />
 						<br />
-						Outside of work, I enjoy playing rougelite and hack-n-slash games (as seen from my <Anchor href="https://steam.kyrie25.dev">
+						Outside of work, I enjoy playing rougelite and hack-n-slash games (as seen from my <Anchor href="https://steam.Flupjamin.dev">
 							Steam
 						</Anchor>{" "}
 						profile), and listening to <i>whatever</i> doesn't make my ears bleed. You can see the songs I'm listening to or the games I'm playing{" "}
@@ -207,19 +207,19 @@ const App: React.FC = () => {
 				<article>
 					<h3>Contact me via:</h3>
 					<div className="icons">
-						<Anchor href="mailto:contact@kyrie25.dev" title="Mail" data-tooltip-id="tooltip" data-tooltip-content="Email">
+						<Anchor href="mailto:contact@Flupjamin.dev" title="Mail" data-tooltip-id="tooltip" data-tooltip-content="Email">
 							<SiMinutemailer />
 						</Anchor>
-						<Anchor href={`https://discord.kyrie25.dev`} title="Discord" data-tooltip-id="tooltip" data-tooltip-content="Discord">
+						<Anchor href={`https://discord.Flupjamin.dev`} title="Discord" data-tooltip-id="tooltip" data-tooltip-content="Discord">
 							<SiDiscord />
 						</Anchor>
-						<Anchor href="https://twitter.kyrie25.dev" title="Twitter" data-tooltip-id="tooltip" data-tooltip-content="Twitter">
+						<Anchor href="https://twitter.Flupjamin.dev" title="Twitter" data-tooltip-id="tooltip" data-tooltip-content="Twitter">
 							<SiX />
 						</Anchor>
-						<Anchor href="https://bsky.kyrie25.dev" title="Bluesky" data-tooltip-id="tooltip" data-tooltip-content="Bluesky">
+						<Anchor href="https://bsky.Flupjamin.dev" title="Bluesky" data-tooltip-id="tooltip" data-tooltip-content="Bluesky">
 							<SiBluesky />
 						</Anchor>
-						<Anchor href="https://github.kyrie25.dev" title="GitHub" data-tooltip-id="tooltip" data-tooltip-content="GitHub">
+						<Anchor href="https://github.Flupjamin.dev" title="GitHub" data-tooltip-id="tooltip" data-tooltip-content="GitHub">
 							<SiGithub />
 						</Anchor>
 					</div>
